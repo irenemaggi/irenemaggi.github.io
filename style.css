@@ -8,4 +8,5 @@ body{
 }
 h1{
     border: solid 3px purple;
+    text-align: center;
 }
